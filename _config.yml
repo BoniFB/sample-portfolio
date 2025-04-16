@@ -1,0 +1,11 @@
+title: Boniface's Data Analyst Portfolio
+description: Projects, dashboards, and skills from my data analytics journey.
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+include:
+  - assets/css/style.css
